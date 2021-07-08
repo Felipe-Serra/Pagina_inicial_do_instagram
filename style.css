@@ -65,6 +65,8 @@ body {
 }
 
 .profile-photo {
+    margin-top: 1.2rem;
+    margin-bottom: 2rem;
     display: flex;
     justify-content: center;
     border-radius: 50%;
@@ -72,7 +74,7 @@ body {
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 8rem;
 }
 
 .instagram-login {
@@ -85,6 +87,15 @@ body {
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
+}
+
+.texto {
+    color: rgb(160, 160, 160);
+    margin: 0.11rem;
+}
+
+.facebook-login {
+    color: #0095f6
 }
 
 .not-account {
